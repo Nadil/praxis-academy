@@ -1,9 +1,8 @@
-Async Await in Dart
+# Async Await in Dart
 
-Aynchronous berupa hasil eksekusi atau 
+Aynchronous berupa hasil eksekusi. Ada 2 kata kunci yang harus dipahami, yaitu: `async` and `await`.
 
-In a nutshell, there are two keywords to undestand - `async` and `await`.
-
+**PART 1**
 ```
 void hello() async {
   print('something exciting is going to happen here...');
@@ -18,7 +17,7 @@ void main() async {
 }
 ```
 
-PART 2
+**PART 2**
 
 ```
 import 'dart:async';
