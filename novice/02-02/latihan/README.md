@@ -144,3 +144,9 @@ class MyButton extends StatelessWidget {
   }
 }
 ```
+
+# Hasil Output 
+
+<img src="https://user-images.githubusercontent.com/16263151/62920762-dd96b700-bdd0-11e9-8802-1402ed72d093.jpeg" width="200" height="375">
+
+<img src="https://user-images.githubusercontent.com/16263151/62920709-bf30bb80-bdd0-11e9-9eb2-c4b7bd67f32b.jpeg" width="200" height="375">
